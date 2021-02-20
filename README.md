@@ -32,10 +32,10 @@
 ![GITHUB](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUjKHk2fSzUjeYRdF0pHo-Eiz9Udshht45jw&usqp=CAU)   
 
 **insert a tables**
-|Name|Branch|Rollno|
-|----|------|------|
-|raj |cse|5E5|
-|Joseph|cse|5g0|
+Name|Branch|Rollno
+----|------|------
+raj |cse|5E5
+Joseph|cse|5g0
 
 **insert an emoji(cpy from net and paste)**   
 :rotating_light:  
